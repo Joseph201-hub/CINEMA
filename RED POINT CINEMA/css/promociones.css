@@ -1,0 +1,15 @@
+#promociones {
+	background: #273746;
+	color: #fff;
+	text-align: center;
+}
+
+#promociones .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#promociones article{
+	margin: 20px;
+}

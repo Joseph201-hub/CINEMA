@@ -1,0 +1,15 @@
+#peliculas {
+	background: #273746;
+	color: #fff;
+	text-align: center;
+}
+
+#peliculas .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#peliculas article {
+	margin: 50px;
+}

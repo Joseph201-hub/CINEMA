@@ -1,0 +1,16 @@
+
+.icon-videocam:before { content: '\e800'; } /* '' */
+.icon-video:before { content: '\e801'; } /* '' */
+.icon-comment:before { content: '\e802'; } /* '' */
+.icon-location:before { content: '\e803'; } /* '' */
+.icon-flag:before { content: '\e804'; } /* '' */
+.icon-trash-empty:before { content: '\e805'; } /* '' */
+.icon-credit-card:before { content: '\e806'; } /* '' */
+.icon-menu:before { content: '\e807'; } /* '' */
+.icon-money:before { content: '\f0d6'; } /* '' */
+.icon-circle:before { content: '\f111'; } /* '' */
+.icon-ticket:before { content: '\f145'; } /* '' */
+.icon-cart-plus:before { content: '\f217'; } /* '' */
+.icon-twitter:before { content: '\f309'; } /* '' */
+.icon-facebook-squared:before { content: '\f30e'; } /* '' */
+.icon-instagram:before { content: '\f32d'; } /* '' */
